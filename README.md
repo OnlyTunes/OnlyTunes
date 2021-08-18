@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Profile
 
-<!--
-**OnlyTunes/OnlyTunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.laobi.icu/badge?page_id=OnlyTunes.OnlyTunes) [![Github](https://img.shields.io/github/followers/OnlyTunes?label=Follow&style=social)](https://github.com/OnlyTunes)
+------
 
-Here are some ideas to get you started:
+##### Im mainly working with:
+-   ![Discord.JS](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+-   ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+-   ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+-   ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Im still learning:
+-   ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+-   ![Discord.JS](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+-   ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+-   ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+-   ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+-   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔭 I’m currently working on
+-   OnlyTunes Radio discord bot
+-   OnlyVODs Twitch Tools
+
+### ⌛ I'm soon to be working on
+-   OnlyTunes Radio Open API
+-   An open source radio bot ( Discord.JS )
+
+### 📧How to reach me
+-   **email:** brayd@onlytunes.uk
+-   **website:** https://onlytunes.uk
+-   **Discord:** braydford04#0001
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyTunes&show_icons=true&count_private=true&theme=blue-green) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyTunes&count_private=true&theme=blue-green)
