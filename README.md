@@ -28,5 +28,7 @@
 -   **email:** brayd@onlytunes.uk
 -   **website:** https://onlytunes.uk
 -   **Discord:** braydford04#0001
+-   **Or join the OnlyTunes server**
+![Discord Banner 2](https://discordapp.com/api/guilds/8pjChqnFjR/widget.png?style=banner2)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyTunes&show_icons=true&count_private=true&theme=blue-green) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyTunes&count_private=true&theme=blue-green)
