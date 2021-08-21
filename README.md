@@ -18,7 +18,7 @@
 
 ### 🔭 I’m currently working on
 -   OnlyTunes Website ![](https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=Online&url=https%3A%2F%2Fonlytunes.uk)
--   OnlyTunes Radio discord bot ![](https://gh-shield.onlytunes.uk/api/shield/bot/831202518654386247?style=flat-square)
+-   OnlyTunes Radio discord bot ![](https://gh-shield.onlytunes.uk/api/shield/bot/831202518654386247?style=flat-square) [![Invite Image](https://img.shields.io/badge/Invite-Invite%20the%20bot-blue)](https://discord.com/api/oauth2/authorize?client_id=831202518654386247&permissions=7408896&scope=bot)
 -   OnlyVODs Website ![](https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=Online&url=https%3A%2F%2Fwww.onlyvods.com)
 -   OnlyVODs Twitch Tools 
 
