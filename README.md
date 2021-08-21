@@ -9,7 +9,7 @@
 -   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) Docker
 
 ##### Im still learning:
--   ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+-   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 -   ![Discord.JS](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 -   ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 -   ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -17,8 +17,10 @@
 -   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🔭 I’m currently working on
--   OnlyTunes Radio discord bot
--   OnlyVODs Twitch Tools
+-   OnlyTunes Website ![](https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=Online&url=https%3A%2F%2Fonlytunes.uk)
+-   OnlyTunes Radio discord bot ![](https://gh-shield.onlytunes.uk/api/shield/bot/831202518654386247?style=flat-square)
+-   OnlyVODs Website ![](https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=Online&url=https%3A%2F%2Fwww.onlyvods.com)
+-   OnlyVODs Twitch Tools 
 
 ### ⌛ I'm soon to be working on
 -   OnlyTunes Radio Open API
@@ -27,9 +29,8 @@
 ### 📧How to reach me
 -   **email:** brayd@onlytunes.uk
 -   **website:** https://onlytunes.uk
--   **Discord:** braydford04#0001
--   Or join the OnlyTunes server
--   [![Discord Banner 2](https://discordapp.com/api/guilds/729104931608330271/widget.png?style=banner2)](https://onlytunes.uk/discord)
+-   ![](https://gh-shield.onlytunes.uk/api/shield/402908830532501526?theme=discord)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyTunes&show_icons=true&count_private=true&theme=blue-green) 
 
