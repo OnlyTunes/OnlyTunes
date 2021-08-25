@@ -32,9 +32,5 @@
 -   ![](https://gh-shield.onlytunes.uk/api/shield/402908830532501526?theme=discord)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyTunes&show_icons=true&count_private=true&theme=blue-green) 
-
-<!--
-Removed 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyTunes&layout=compact&theme=blue-green)](https://github.com/OnlyTunes/github-readme-stats)-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyTunes&show_icons=true&count_private=true&theme=blue-green) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyTunes&layout=compact&theme=blue-green)](https://github.com/OnlyTunes/github-readme-stats)
 
