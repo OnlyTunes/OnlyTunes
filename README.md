@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my Profile
 
-![](https://visitor-badge.laobi.icu/badge?page_id=OnlyTunes.OnlyTunes) [![Github](https://img.shields.io/github/followers/OnlyTunes?label=Follow&style=social)](https://github.com/OnlyTunes)
+![](https://visitor-badge.laobi.icu/badge?page_id=OnlyTunes.OnlyTunes) [![Github](https://img.shields.io/github/followers/OnlyTunes?label=Follow&style=social)](https://github.com/OnlyTunes) [![wakatime](https://wakatime.com/badge/user/c681d582-e69e-4f07-8509-1a7db5c8929d.svg)](https://wakatime.com/@c681d582-e69e-4f07-8509-1a7db5c8929d)
 ------
 
 ##### Im mainly working with:
