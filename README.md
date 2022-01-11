@@ -39,6 +39,8 @@
 - You can support me over on ko-fi 💖
 - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y51ZW4N)
 
+### 📣 What im currently working on
+[![Discord Presence](https://gh-profile.onlytunes.uk/api/402908830532501526)](https://discord.com/users/402908830532501526)
 
 #### 📧 How to reach me
 -   **email:** brayd@onlytunes.uk
