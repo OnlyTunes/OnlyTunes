@@ -50,4 +50,4 @@
 
 #### 📊 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyTunes&show_icons=true&count_private=true&theme=blue-green)
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=OnlyTunes&theme=blue-green)
+![GitHub Streak](https://streak-stats.demolab.com?user=onlytunes&theme=blue-green)
